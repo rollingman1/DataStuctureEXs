@@ -22,6 +22,8 @@ int main() {
 
 	cout << "Value :"<<setw(10)<<" grade3 = " << setw(10) << grade3 << setw(10) << " *pgrade3 = " << setw(10) << *pgrade3 << setw(10) << " *&grade3 = " << setw(10) << *&grade3 << endl;
 	cout << "Addr : "<<setw(10)<<" &grade3 = " << setw(10) << &grade3 << setw(10) << " pgrade3 = " << setw(10) << pgrade3 << setw(10) << " &grade1 = " << setw(10) << &grade3 << endl;
-
+	
+	//Use of pointer & its properties 
+	
 	return 0;
 }
